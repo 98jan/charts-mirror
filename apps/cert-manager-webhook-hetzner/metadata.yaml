@@ -1,6 +1,6 @@
 ---
-artifactName: vault
+artifactName: cert-manager-webhook-hetzner
 source:
   helm:
-    registry: https://helm.releases.hashicorp.com
-    version: 0.34.1
+    registry: https://charts.hetzner.cloud
+    version: 0.9.1

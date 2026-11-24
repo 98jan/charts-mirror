@@ -1,6 +1,6 @@
 ---
-artifactName: workadventure
+artifactName: sonarqube
 source:
   helm:
-    registry: https://charts.workadventu.re/
-    version: v1.35.0
+    registry: https://SonarSource.github.io/helm-chart-sonarqube
+    version: 2026.5.1007

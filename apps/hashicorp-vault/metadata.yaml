@@ -1,6 +1,6 @@
 ---
-artifactName: kubevious
+artifactName: vault
 source:
   helm:
-    registry: https://helm.kubevious.io
-    version: 1.2.2
+    registry: https://helm.releases.hashicorp.com
+    version: 0.34.1
