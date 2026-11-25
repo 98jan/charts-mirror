@@ -1,6 +1,6 @@
 ---
-artifactName: eck-operator
+artifactName: eck-stack
 source:
   helm:
     registry: https://helm.elastic.co
-    version: 3.5.0
+    version: 0.20.0
