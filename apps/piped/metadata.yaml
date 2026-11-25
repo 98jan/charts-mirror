@@ -3,4 +3,4 @@ artifactName: piped
 source:
   helm:
     registry: https://helm.piped.video
-    version: 7.4.21
+    version: 8.1.31
