@@ -1,6 +1,0 @@
----
-artifactName: trivy-operator
-source:
-  helm:
-    registry: https://aquasecurity.github.io/helm-charts
-    version: 0.38.1
